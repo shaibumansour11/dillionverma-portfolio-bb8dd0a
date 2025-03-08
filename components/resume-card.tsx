@@ -39,7 +39,7 @@ export const ResumeCard = ({
   };
 
   return (
-    <Link
+    <div
       href={href || "#"}
       className="block cursor-pointer"
       onClick={handleClick}
@@ -105,6 +105,6 @@ export const ResumeCard = ({
           )}
         </div>
       </Card>
-    </Link>
+    </div>
   );
 };
