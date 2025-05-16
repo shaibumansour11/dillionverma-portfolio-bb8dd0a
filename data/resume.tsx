@@ -8,7 +8,7 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Industrial Engineer turned Entrepreneur. I love building things and helping people. Very active on Whatsaap.",
+    "Industrial Engineer turned Web Developer. I love building things and helping people. Very active on Whatsaap.",
   summary:
    "Hi, I’m SHAIBU ISSA MANSOUR, an ambitious Industrial Engineering student at the University of Dar-es-Salaam (UDSM), currently in my second year. While pursuing my bachelor’s degree, I discovered a passion for technology and problem-solving that led me to dive into the world of software development. In 2023, I began teaching myself fullstack development, balancing my studies with countless hours of coding, building projects, and mastering both frontend and backend technologies\n                  Over the past year, I’ve gained hands-on experience creating web and mobile applications, turning ideas into functional, user-friendly solutions. My journey as a self-taught developer has taught me resilience, adaptability, and the value of continuous learning. Based in Tanzania, I’m driven by a desire to innovate and contribute to the growing tech ecosystem in my region \n Whether it’s engineering systems or crafting digital solutions, ",
   avatarUrl: "/shaibu1.png",
