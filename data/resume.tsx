@@ -49,7 +49,7 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "#",
+        url: "https://x.com/ShaibuMansour",
         icon: Icons.x,
 
         navbar: true,
@@ -120,42 +120,39 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+      image: "/ezy.png",
+      // video:
+      //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
     {
-      title: "Magic UI",
-      href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      title: "Inventory Pro",
+      href: "https://zoho-inventory-sage.vercel.app",
+      dates: "Feb 2025 - Present",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Inventory Pro is a comprehensive inventory management system designed to streamline stock tracking, barcode scanning, and real-time inventory updates. Built for efficiency and scalability, this platform supports seamless inventory control for retail and warehouse environments. With features like barcode generation, automatic quantity reduction on sales, and an intuitive user interface, Inventory Pro empowers businesses to manage their stock with precision and ease.",
       technologies: [
         "Next.js",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "MongoDB",
         "TailwindCSS",
-        "Stripe",
+        "Zustand",
         "Shadcn UI",
-        "Magic UI",
+        "React Hook Form",
+        "Firebase (for auth & barcode scanner)",
       ],
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "https://zoho-inventory-sage.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
-        {
-          type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
-          icon: <Icons.github className="size-3" />,
-        },
       ],
-      image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
-    },
+      image: "/inve.png",
+      // video:
+      //   "https://your-cdn-link.com/inventory-demo.mp4",
+    }
+    
   ],
   // hackathons: [
   //   {
