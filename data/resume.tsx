@@ -126,7 +126,7 @@ export const DATA = {
     },
     {
       title: "Inventory Pro",
-      href: "https://zoho-inventory-sage.vercel.app",
+      href: "https://smartstoo.site",
       dates: "Feb 2025 - Present",
       active: true,
       description:
@@ -139,12 +139,11 @@ export const DATA = {
         "Zustand",
         "Shadcn UI",
         "React Hook Form",
-        "Firebase (for auth & barcode scanner)",
       ],
       links: [
         {
           type: "Website",
-          href: "https://zoho-inventory-sage.vercel.app",
+          href: "https://smartstoo.site",
           icon: <Icons.globe className="size-3" />,
         },
       ],
