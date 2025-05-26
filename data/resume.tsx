@@ -138,7 +138,7 @@ export const DATA = {
         "TailwindCSS",
         "Zustand",
         "Shadcn UI",
-        "React Hook Form",
+        "React Hook Form", 
       ],
       links: [
         {
